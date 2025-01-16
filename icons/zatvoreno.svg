@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="Layer_1" image-rendering="optimizeQuality" text-rendering="geometricPrecision" shape-rendering="geometricPrecision"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512"
+	 style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#37465A;}
+</style>
+<g id="Layer_x0020_1">
+	<path class="st0" d="M346,512H166c-61,0-109-49-109-109V162h135v23c0,3,2,6,6,6h116c4,0,6-3,6-6v-23h135v241
+		C455,463,407,512,346,512z M288,457c-15,0-26-11-26-26c0-14,11-25,26-25c14,0,25,11,25,25C313,446,302,457,288,457z M288,418
+		c-8,0-14,6-14,13c0,8,6,14,14,14c7,0,13-6,13-14C301,424,295,418,288,418z M224,457c-14,0-25-11-25-26c0-14,11-25,25-25
+		c15,0,26,11,26,25C250,446,239,457,224,457z M224,418c-7,0-13,6-13,13c0,8,6,14,13,14c8,0,14-6,14-14C238,424,232,418,224,418z
+		 M204,162h104v17H204V162z"/>
+	<path class="st0" d="M57,150v-41C57,49,105,0,166,0h180c61,0,109,49,109,109v41H57z M340,58H172c-3,0-6-2-6-6c0-3,3-6,6-6h168
+		c3,0,6,3,6,6C346,56,343,58,340,58z M373,103H139c-4,0-6-2-6-6c0-3,2-6,6-6h234c4,0,6,3,6,6C379,101,377,103,373,103z"/>
+</g>
+</svg>
